@@ -1,18 +1,18 @@
 TRex
 v7
 r0
-t320008101.637171
+t320015430.774635
 cCheck dependencies
-cProcessInfoPlistFile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist Rex-Info.plist
-cCompileXIB /Users/subha/Documents/Rex/MainWindow.xib
-cCompileXIB /Users/subha/Documents/Rex/RexViewController.xib
-cProcessPCH /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch Rex_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o /Users/subha/Documents/Rex/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o /Users/subha/Documents/Rex/Classes/RexAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o /Users/subha/Documents/Rex/Classes/RexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex normal i386
-cGenerateDSYMFile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app.dSYM /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex
-cTouch /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app
+cProcessInfoPlistFile /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist Rex-Info.plist
+cCompileXIB /Users/subha/Documents/appstuff/rexile/pieces/Rex/MainWindow.xib
+cCompileXIB /Users/subha/Documents/appstuff/rexile/pieces/Rex/RexViewController.xib
+cProcessPCH /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch.gch Rex_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o /Users/subha/Documents/appstuff/rexile/pieces/Rex/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex normal i386
+cGenerateDSYMFile /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app.dSYM /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex
+cTouch /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
 c000000004CC128950000000000000110
@@ -137,18 +137,115 @@ t1295291384
 s361
 i<UIKit/UIKit.h>
 
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.h
+c000000004D62CBDF00000000000001CB
+t1298320351
+s459
+i<UIKit/UIKit.h>
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.m
+c000000004D62CBDF0000000000000A85
+t1298320351
+s2693
+i"RexAppDelegate.h"
+i"RexViewController.h"
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.h
+c000000004D62CBDF00000000000002FF
+t1298320351
+s767
+i<UIKit/UIKit.h>
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.m
+c000000004D62D51D000000000000095D
+t1298322717
+s2397
+i"RexViewController.h"
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/MainWindow.xib
+c000000004D62CBDF0000000000004DF9
+t1298320351
+s19961
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/RexViewController.xib
+c000000004D62D4B700000000000063DF
+t1298322615
+s25567
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/Rex_Prefix.pch
+c000000004D62CBDF00000000000000AF
+t1298320351
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app
+t1298322630
+s238
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app.dSYM
+t1298322630
+s102
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist
+t1298322628
+s575
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/MainWindow.nib
+t1298322629
+s1115
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/PkgInfo
+t1298322628
+s8
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex
+t1298322630
+s24096
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/RexViewController.nib
+t1298322629
+s2089
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/Rex.LinkFileList
+c000000004D62D4C4000000000000018E
+t1298322628
+s398
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o
+t1298322630
+s51704
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o
+t1298322630
+s50456
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o
+t1298322630
+s6324
+
+N/Users/subha/Documents/appstuff/rexile/pieces/Rex/main.m
+c000000004D62CBDF0000000000000169
+t1298320351
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch.gch
+t1298322630
+s15453392
+
 N/var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch
 t1295293100
 s15453392
 
 NRex-Info.plist
-c000000004D3493F8000000000000038D
-t1295291384
+c000000004D62CBDF000000000000038D
+t1298320351
 s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies320008095#320008095#0(0"0(0#1#0"8607077472#0"0#
+lSLF07#2@18"Check dependencies320015428#320015428#0(0"0(0#1#0"8615098368#0"0#
 
 CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o /Users/subha/Documents/Rex/Classes/RexAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s316988486.072817
@@ -163,6 +260,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@59"Compile /Users/subha/Documents/Rex/Classes/RexAppDelegate.m316988486#316988486#0(0"0(0#0#51"/Users/subha/Documents/Rex/Classes/RexAppDelegate.m8613463264#1730"    cd /Users/subha/Documents/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch -c /Users/subha/Documents/Rex/Classes/RexAppDelegate.m -o /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o0#
 
+CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320015430.538750
+e320015430.631244
+r1
+xCompileC
+xbuild/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.m320015430#320015430#0(0"0(0#0#74"/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.m8617811008#1983"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch -c /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexAppDelegate.m -o /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o0#
+
 CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o /Users/subha/Documents/Rex/Classes/RexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s320008095.599317
 e320008099.730890
@@ -176,6 +286,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/subha/Documents/Rex/Classes/RexViewController.m320008095#320008099#0(0"0(0#0#54"/Users/subha/Documents/Rex/Classes/RexViewController.m8675430620952097792#1736"    cd /Users/subha/Documents/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch -c /Users/subha/Documents/Rex/Classes/RexViewController.m -o /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o0#
 
+CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320015430.604995
+e320015430.689991
+r1
+xCompileC
+xbuild/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.m320015430#320015430#0(0"0(0#0#77"/Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.m8617104128#1989"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch -c /Users/subha/Documents/appstuff/rexile/pieces/Rex/Classes/RexViewController.m -o /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o0#
+
 CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o /Users/subha/Documents/Rex/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s316985900.833592
 e316985900.967649
@@ -188,6 +311,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@41"Compile /Users/subha/Documents/Rex/main.m316985900#316985901#0(0"0(0#0#33"/Users/subha/Documents/Rex/main.m8603285472#1702"    cd /Users/subha/Documents/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch -c /Users/subha/Documents/Rex/main.m -o /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o /Users/subha/Documents/appstuff/rexile/pieces/Rex/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320015430.537630
+e320015430.604885
+r1
+xCompileC
+xbuild/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/subha/Documents/appstuff/rexile/pieces/Rex/main.m320015430#320015430#0(0"0(0#0#56"/Users/subha/Documents/appstuff/rexile/pieces/Rex/main.m8616618368#1955"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch -c /Users/subha/Documents/appstuff/rexile/pieces/Rex/main.m -o /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/subha/Documents/Rex/MainWindow.xib
 s316985899.163252
@@ -205,6 +341,22 @@ xCompileXIB
 x/Users/subha/Documents/Rex/RexViewController.xib
 lSLF07#2@32"CompileXIB RexViewController.xib317539816#317539818#0(0"0(0#0#48"/Users/subha/Documents/Rex/RexViewController.xib33777431002349616#544"    cd /Users/subha/Documents/Rex    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/RexViewController.nib /Users/subha/Documents/Rex/RexViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
 
+CCompileXIB /Users/subha/Documents/appstuff/rexile/pieces/Rex/MainWindow.xib
+s320015428.998712
+e320015429.444056
+r1
+xCompileXIB
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320015428#320015429#0(0"0(0#0#64"/Users/subha/Documents/appstuff/rexile/pieces/Rex/MainWindow.xib8617295680#599"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/MainWindow.nib /Users/subha/Documents/appstuff/rexile/pieces/Rex/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/subha/Documents/appstuff/rexile/pieces/Rex/RexViewController.xib
+s320015428.999483
+e320015429.506025
+r1
+xCompileXIB
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/RexViewController.xib
+lSLF07#2@32"CompileXIB RexViewController.xib320015428#320015429#0(0"0(0#0#71"/Users/subha/Documents/appstuff/rexile/pieces/Rex/RexViewController.xib8615488960#613"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/RexViewController.nib /Users/subha/Documents/appstuff/rexile/pieces/Rex/RexViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
 CGenerateDSYMFile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app.dSYM /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex
 s320008101.353104
 e320008101.534376
@@ -213,6 +365,15 @@ xGenerateDSYMFile
 x/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app.dSYM
 x/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex
 lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/Rex.app.dSYM build/Debug-iphonesimulator/Rex.app/Rex320008101#320008101#0(0"0(0#0#66"/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex8603733056#335"    cd /Users/subha/Documents/Rex    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex -o /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app.dSYM0#
+
+CGenerateDSYMFile /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app.dSYM /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex
+s320015430.730293
+e320015430.771641
+r1
+xGenerateDSYMFile
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app.dSYM
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/Rex.app.dSYM build/Debug-iphonesimulator/Rex.app/Rex320015430#320015430#0(0"0(0#0#89"/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex8615945632#404"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex -o /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app.dSYM0#
 
 CLd /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex normal i386
 s320008099.731066
@@ -224,6 +385,16 @@ xnormal
 xi386
 lSLF07#2@71"Link /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex320008099#320008101#0(0"0(0#0#0"8609134720#820"    cd /Users/subha/Documents/Rex    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/subha/Documents/Rex/build/Debug-iphonesimulator -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -filelist /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/Rex.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex0#
 
+CLd /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex normal i386
+s320015430.690110
+e320015430.730183
+r1
+xLd
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex
+xnormal
+xi386
+lSLF07#2@94"Link /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex320015430#320015430#0(0"0(0#0#0"8616512384#935"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator -F/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator -filelist /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/Rex.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Rex0#
+
 CProcessInfoPlistFile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist Rex-Info.plist
 s316985899.153237
 e316985899.162830
@@ -232,6 +403,28 @@ xProcessInfoPlistFile
 x/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist
 xRex-Info.plist
 lSLF07#2@22"Process Rex-Info.plist316985899#316985899#0(0"0(0#0#41"/Users/subha/Documents/Rex/Rex-Info.plist13229813538947188#431"    cd /Users/subha/Documents/Rex    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Rex-Info.plist -genpkginfo /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist Rex-Info.plist
+s320015428.958010
+e320015428.998621
+r1
+xProcessInfoPlistFile
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist
+xRex-Info.plist
+lSLF07#2@22"Process Rex-Info.plist320015428#320015428#0(0"0(0#0#64"/Users/subha/Documents/appstuff/rexile/pieces/Rex/Rex-Info.plist8601098848#500"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Rex-Info.plist -genpkginfo /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist0#
+
+CProcessPCH /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch.gch Rex_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320015429.506148
+e320015430.537491
+r1
+xProcessPCH
+x/var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch.gch
+xRex_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile Rex_Prefix.pch320015429#320015430#0(0"0(0#0#64"/Users/subha/Documents/appstuff/rexile/pieces/Rex/Rex_Prefix.pch8616851872#1840"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -c /Users/subha/Documents/appstuff/rexile/pieces/Rex/Rex_Prefix.pch -o /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-evenexwiatuqvzfmndfcseozdaos/Rex_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch Rex_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s316985899.596121
@@ -253,4 +446,12 @@ r1
 xTouch
 x/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app
 lSLF07#2@68"Touch /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app320008101#320008101#0(0"0(0#0#0"8607456128#250"    cd /Users/subha/Documents/Rex    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app0#
+
+CTouch /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app
+s320015430.771742
+e320015430.774595
+r1
+xTouch
+x/Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app
+lSLF07#2@91"Touch /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app320015430#320015430#0(0"0(0#0#0"8615525632#296"    cd /Users/subha/Documents/appstuff/rexile/pieces/Rex    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/subha/Documents/appstuff/rexile/pieces/Rex/build/Debug-iphonesimulator/Rex.app0#
 

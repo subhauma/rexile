@@ -28,6 +28,8 @@
 	
 	[picker setHidden:TRUE];
 	[duration setHidden:FALSE];
+	
+	start.alpha = 0.0;
 }
 
 -(void)countDown {
