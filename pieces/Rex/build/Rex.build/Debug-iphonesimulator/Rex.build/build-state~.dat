@@ -1,0 +1,247 @@
+TRex
+v7
+r0
+t316985901.023374
+cCheck dependencies
+cProcessInfoPlistFile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist Rex-Info.plist
+cCompileXIB /Users/subha/Documents/Rex/MainWindow.xib
+cCompileXIB /Users/subha/Documents/Rex/RexViewController.xib
+cProcessPCH /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch Rex_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o /Users/subha/Documents/Rex/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o /Users/subha/Documents/Rex/Classes/RexAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o /Users/subha/Documents/Rex/Classes/RexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/subha/Documents/Rex/Classes/RexAppDelegate.h
+c000000004D3493F800000000000001CB
+t1295291384
+s459
+i<UIKit/UIKit.h>
+
+N/Users/subha/Documents/Rex/Classes/RexAppDelegate.m
+c000000004D3493F80000000000000A85
+t1295291384
+s2693
+i"RexAppDelegate.h"
+i"RexViewController.h"
+
+N/Users/subha/Documents/Rex/Classes/RexViewController.h
+c000000004D349AA9000000000000013D
+t1295293097
+s317
+i<UIKit/UIKit.h>
+
+N/Users/subha/Documents/Rex/Classes/RexViewController.m
+c000000004D3499D20000000000000621
+t1295292882
+s1569
+i"RexViewController.h"
+
+N/Users/subha/Documents/Rex/MainWindow.xib
+c000000004D3493F80000000000004DF9
+t1295291384
+s19961
+
+N/Users/subha/Documents/Rex/RexViewController.xib
+c000000004D3499BC0000000000004A38
+t1295292860
+s19000
+
+N/Users/subha/Documents/Rex/Rex_Prefix.pch
+c000000004D3493F800000000000000AF
+t1295291384
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app
+t2
+s0
+
+N/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app.dSYM
+t2
+s0
+
+N/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist
+t1295293099
+s575
+
+N/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/MainWindow.nib
+t1295293099
+s1115
+
+N/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/PkgInfo
+t1295293099
+s8
+
+N/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex
+t2
+s0
+
+N/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/RexViewController.nib
+t1295293099
+s983
+
+N/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/Rex.LinkFileList
+c000000004D349AAB0000000000000149
+t1295293099
+s329
+
+N/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o
+t2
+s0
+
+N/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o
+t2
+s0
+
+N/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o
+t1295293100
+s6280
+
+N/Users/subha/Documents/Rex/main.m
+c000000004D3493F80000000000000169
+t1295291384
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch
+t1295293100
+s15453392
+
+NRex-Info.plist
+c000000004D3493F8000000000000038D
+t1295291384
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316985899#316985899#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o /Users/subha/Documents/Rex/Classes/RexAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316985900.834578
+e316985900.992871
+r0
+xCompileC
+xbuild/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o
+x/Users/subha/Documents/Rex/Classes/RexAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/subha/Documents/Rex/Classes/RexAppDelegate.m:10:
+o/Users/subha/Documents/Rex/Classes/RexViewController.h:13: error: statically allocated instance of Objective-C class 'UIDatePicker'
+o/Users/subha/Documents/Rex/Classes/RexViewController.h:14: error: statically allocated instance of Objective-C class 'NSTimer'
+o/Users/subha/Documents/Rex/Classes/RexViewController.h:18: error: expected specifier-qualifier-list before 'timer'
+lSLF07#2@59"Compile /Users/subha/Documents/Rex/Classes/RexAppDelegate.m316985900#316985901#0(452"In file included from /Users/subha/Documents/Rex/Classes/RexAppDelegate.m:10:/Users/subha/Documents/Rex/Classes/RexViewController.h:13: error: statically allocated instance of Objective-C class 'UIDatePicker'/Users/subha/Documents/Rex/Classes/RexViewController.h:14: error: statically allocated instance of Objective-C class 'NSTimer'/Users/subha/Documents/Rex/Classes/RexViewController.h:18: error: expected specifier-qualifier-list before 'timer'3(4@65"Statically allocated instance of Objective-C class 'UIDatePicker'316985900#78#132#2(7@73"In file included from /Users/subha/Documents/Rex/Classes/RexAppDelegate.m316985900#18446744073709551615#0#0(6@51"/Users/subha/Documents/Rex/Classes/RexAppDelegate.m316984184#10#0#10#0#0"0(13@123"Statically allocated instance of Objective-C class 'UIDatePicker' in /Users/subha/Documents/Rex/Classes/RexViewController.h316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#13#0#13#0#0"0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#13#0#13#0#0"0(4@60"Statically allocated instance of Objective-C class 'NSTimer'316985900#210#127#2(7@73"In file included from /Users/subha/Documents/Rex/Classes/RexAppDelegate.m316985900#18446744073709551615#0#0(6@51"/Users/subha/Documents/Rex/Classes/RexAppDelegate.m316984184#10#0#10#0#0"0(13@118"Statically allocated instance of Objective-C class 'NSTimer' in /Users/subha/Documents/Rex/Classes/RexViewController.h316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#14#0#14#0#0"0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#14#0#14#0#0"0(4@48"Expected specifier-qualifier-list before 'timer'316985900#337#115#2(7@73"In file included from /Users/subha/Documents/Rex/Classes/RexAppDelegate.m316985900#18446744073709551615#0#0(6@51"/Users/subha/Documents/Rex/Classes/RexAppDelegate.m316984184#10#0#10#0#0"0(13@106"Expected specifier-qualifier-list before 'timer' in /Users/subha/Documents/Rex/Classes/RexViewController.h316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#18#0#18#0#0"0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#18#0#18#0#19"expected * before *0(0#0#51"/Users/subha/Documents/Rex/Classes/RexAppDelegate.m8602800864#1730"    cd /Users/subha/Documents/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch -c /Users/subha/Documents/Rex/Classes/RexAppDelegate.m -o /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexAppDelegate.o1#
+
+CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o /Users/subha/Documents/Rex/Classes/RexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316985900.967774
+e316985901.023197
+r0
+xCompileC
+xbuild/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o
+x/Users/subha/Documents/Rex/Classes/RexViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/subha/Documents/Rex/Classes/RexViewController.m:9:
+o/Users/subha/Documents/Rex/Classes/RexViewController.h:13: error: statically allocated instance of Objective-C class 'UIDatePicker'
+o/Users/subha/Documents/Rex/Classes/RexViewController.h:14: error: statically allocated instance of Objective-C class 'NSTimer'
+o/Users/subha/Documents/Rex/Classes/RexViewController.h:18: error: expected specifier-qualifier-list before 'timer'
+o/Users/subha/Documents/Rex/Classes/RexViewController.m:13: error: no declaration of property 'timer' found in the interface
+o/Users/subha/Documents/Rex/Classes/RexViewController.m: In function '-[RexViewController dealloc]':
+o/Users/subha/Documents/Rex/Classes/RexViewController.m:68: error: cannot convert to a pointer type
+o/Users/subha/Documents/Rex/Classes/RexViewController.m:69: error: cannot convert to a pointer type
+lSLF07#2@62"Compile /Users/subha/Documents/Rex/Classes/RexViewController.m316985900#316985901#0(876"In file included from /Users/subha/Documents/Rex/Classes/RexViewController.m:9:/Users/subha/Documents/Rex/Classes/RexViewController.h:13: error: statically allocated instance of Objective-C class 'UIDatePicker'/Users/subha/Documents/Rex/Classes/RexViewController.h:14: error: statically allocated instance of Objective-C class 'NSTimer'/Users/subha/Documents/Rex/Classes/RexViewController.h:18: error: expected specifier-qualifier-list before 'timer'/Users/subha/Documents/Rex/Classes/RexViewController.m:13: error: no declaration of property 'timer' found in the interface/Users/subha/Documents/Rex/Classes/RexViewController.m: In function '-[RexViewController dealloc]':/Users/subha/Documents/Rex/Classes/RexViewController.m:68: error: cannot convert to a pointer type/Users/subha/Documents/Rex/Classes/RexViewController.m:69: error: cannot convert to a pointer type6(4@65"Statically allocated instance of Objective-C class 'UIDatePicker'316985900#80#132#2(7@76"In file included from /Users/subha/Documents/Rex/Classes/RexViewController.m316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.m316985682#9#0#9#0#0"0(13@123"Statically allocated instance of Objective-C class 'UIDatePicker' in /Users/subha/Documents/Rex/Classes/RexViewController.h316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#13#0#13#0#0"0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#13#0#13#0#0"0(4@60"Statically allocated instance of Objective-C class 'NSTimer'316985900#212#127#2(7@76"In file included from /Users/subha/Documents/Rex/Classes/RexViewController.m316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.m316985682#9#0#9#0#0"0(13@118"Statically allocated instance of Objective-C class 'NSTimer' in /Users/subha/Documents/Rex/Classes/RexViewController.h316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#14#0#14#0#0"0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#14#0#14#0#0"0(4@48"Expected specifier-qualifier-list before 'timer'316985900#339#115#2(7@76"In file included from /Users/subha/Documents/Rex/Classes/RexViewController.m316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.m316985682#9#0#9#0#0"0(13@106"Expected specifier-qualifier-list before 'timer' in /Users/subha/Documents/Rex/Classes/RexViewController.h316985900#18446744073709551615#0#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#18#0#18#0#0"0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.h316985897#18#0#18#0#19"expected * before *0(4@57"No declaration of property 'timer' found in the interface316985900#454#124#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.m316985682#13#0#13#0#0"0(4@32"Cannot convert to a pointer type316985900#678#99#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.m316985682#68#0#68#0#0"0(4@32"Cannot convert to a pointer type316985900#777#99#0(6@54"/Users/subha/Documents/Rex/Classes/RexViewController.m316985682#69#0#69#0#0"0(0#0#54"/Users/subha/Documents/Rex/Classes/RexViewController.m8601674144#1736"    cd /Users/subha/Documents/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch -c /Users/subha/Documents/Rex/Classes/RexViewController.m -o /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/RexViewController.o1#
+
+CCompileC build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o /Users/subha/Documents/Rex/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316985900.833592
+e316985900.967649
+r1
+xCompileC
+xbuild/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o
+x/Users/subha/Documents/Rex/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/subha/Documents/Rex/main.m316985900#316985901#0(0"0(0#0#33"/Users/subha/Documents/Rex/main.m8603285472#1702"    cd /Users/subha/Documents/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -include /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch -c /Users/subha/Documents/Rex/main.m -o /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/subha/Documents/Rex/MainWindow.xib
+s316985899.163252
+e316985899.584082
+r1
+xCompileXIB
+x/Users/subha/Documents/Rex/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316985899#316985899#0(0"0(0#0#41"/Users/subha/Documents/Rex/MainWindow.xib8603413856#530"    cd /Users/subha/Documents/Rex    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/MainWindow.nib /Users/subha/Documents/Rex/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/subha/Documents/Rex/RexViewController.xib
+s316985899.166593
+e316985899.595969
+r1
+xCompileXIB
+x/Users/subha/Documents/Rex/RexViewController.xib
+lSLF07#2@32"CompileXIB RexViewController.xib316985899#316985899#0(0"0(0#0#48"/Users/subha/Documents/Rex/RexViewController.xib8603449696#544"    cd /Users/subha/Documents/Rex    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/RexViewController.nib /Users/subha/Documents/Rex/RexViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app.dSYM /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex
+r0
+
+CLd /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Rex normal i386
+r0
+
+CProcessInfoPlistFile /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist Rex-Info.plist
+s316985899.153237
+e316985899.162830
+r1
+xProcessInfoPlistFile
+x/Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist
+xRex-Info.plist
+lSLF07#2@22"Process Rex-Info.plist316985899#316985899#0(0"0(0#0#41"/Users/subha/Documents/Rex/Rex-Info.plist13229813538947188#431"    cd /Users/subha/Documents/Rex    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Rex-Info.plist -genpkginfo /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app/Info.plist0#
+
+CProcessPCH /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch Rex_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316985899.596121
+e316985900.833447
+r1
+xProcessPCH
+x/var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch
+xRex_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile Rex_Prefix.pch316985899#316985900#0(0"0(0#0#41"/Users/subha/Documents/Rex/Rex_Prefix.pch8602249120#1610"    cd /Users/subha/Documents/Rex    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-generated-files.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-own-target-headers.hmap -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-all-target-headers.hmap -iquote /Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/Rex-project-headers.hmap -F/Users/subha/Documents/Rex/build/Debug-iphonesimulator -I/Users/subha/Documents/Rex/build/Debug-iphonesimulator/include -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources/i386 -I/Users/subha/Documents/Rex/build/Rex.build/Debug-iphonesimulator/Rex.build/DerivedSources -c /Users/subha/Documents/Rex/Rex_Prefix.pch -o /var/folders/88/88ithPS9HamiKBccRGcFNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Rex_Prefix-grtwnbdcgexujrddtmhsebmllhmu/Rex_Prefix.pch.gch0#
+
+CTouch /Users/subha/Documents/Rex/build/Debug-iphonesimulator/Rex.app
+r0
+

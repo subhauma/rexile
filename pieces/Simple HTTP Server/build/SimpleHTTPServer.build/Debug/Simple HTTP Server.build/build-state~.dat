@@ -1,0 +1,56 @@
+TSimple HTTP Server
+v7
+r1
+cCheck dependencies
+
+N/Users/nagagollakota/Desktop/Simple HTTP Server/English.lproj/InfoPlist.strings
+c00000000451A7CE700000000000000C2
+t1159363815
+s194
+
+N/Users/nagagollakota/Desktop/Simple HTTP Server/English.lproj/MainMenu.nib
+c00000000451A7D0100000000000000AA
+t1159363841
+s170
+
+N/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app
+t2
+s0
+
+N/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app/Contents/Info.plist
+t2
+s0
+
+N/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+NInfo.plist
+c00000000451987E80000000000000357
+t1159301096
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314654162#314654162#0(86"[BEROR]error: There is no SDK with the name or path '/Developer/SDKs/MacOSX10.4u.sdk'1(4@78"error: There is no SDK with the name or path '/Developer/SDKs/MacOSX10.4u.sdk'314654162#18446744073709551615#0#0(1@0"0(0#1#0"9007637348679712#0"0#
+
+CCopyStringsFile "/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CProcessInfoPlistFile "/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app/Contents/Info.plist" Info.plist
+r0
+
+CStripNIB "/Users/nagagollakota/Desktop/Simple HTTP Server/English.lproj/MainMenu.nib"
+r0
+
+CTouch "/Users/nagagollakota/Desktop/Simple HTTP Server/build/Debug/Simple HTTP Server.app"
+r0
+

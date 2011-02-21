@@ -1,0 +1,207 @@
+// !$*UTF8*$!
+{
+	1742E04812DA2EB900E6B244 /* NavApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NavApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1742E06012DA2ED100E6B244 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1742E06112DA2ED100E6B244 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1742E06312DA2F0C00E6B244 /* ViewOneController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {725, 419}}";
+			sepNavSelRange = "{366, 0}";
+			sepNavVisRange = "{0, 407}";
+		};
+	};
+	1742E06412DA2F0C00E6B244 /* ViewOneController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 949}}";
+			sepNavSelRange = "{1155, 0}";
+			sepNavVisRange = "{281, 880}";
+		};
+	};
+	1772165912DA34D700D5F9FB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1742E06312DA2F0C00E6B244 /* ViewOneController.h */;
+		name = "ViewOneController.h: 19";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	17A8CF0212DA34FC00522FE6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1742E06412DA2F0C00E6B244 /* ViewOneController.m */;
+		name = "ViewOneController.m: 45";
+		rLen = 0;
+		rLoc = 1155;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 281;
+	};
+	17A8CF0312DA34FC00522FE6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NavAppAppDelegate.h */;
+		name = "NavAppAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 405;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	17A8CF0B12DA354400522FE6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NavAppAppDelegate.m */;
+		name = "NavAppAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 0;
+	};
+	17A8CF1412DA354400522FE6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NavAppAppDelegate.m */;
+		name = "NavAppAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 319;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 0;
+	};
+	17E3D4CA12DA2FA100D0C707 /* ViewTwoController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {725, 425}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	17E3D4CF12DA304200D0C707 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 17E3D4CA12DA2FA100D0C707 /* ViewTwoController.h */;
+		name = "ViewTwoController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	17E3D4D812DA321900D0C707 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NavApp-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/subha/Documents/NavApp/NavApp-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	1D3623240D0F684500981E51 /* NavAppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {725, 413}}";
+			sepNavSelRange = "{405, 0}";
+			sepNavVisRange = "{0, 459}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NavAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1105}}";
+			sepNavSelRange = "{319, 0}";
+			sepNavVisRange = "{0, 970}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* NavApp */ = {
+		activeExec = 0;
+		executables = (
+			1742E04812DA2EB900E6B244 /* NavApp */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1742E04812DA2EB900E6B244 /* NavApp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NavApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* NavApp */,
+		);
+		codeSenseManager = 1742E06112DA2ED100E6B244 /* Code sense */;
+		executables = (
+			1742E04812DA2EB900E6B244 /* NavApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					547,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316290292;
+			PBXWorkspaceStateSaveDate = 316290292;
+		};
+		perUserProjectItems = {
+			1772165912DA34D700D5F9FB /* PBXTextBookmark */ = 1772165912DA34D700D5F9FB /* PBXTextBookmark */;
+			17A8CF0212DA34FC00522FE6 /* PBXTextBookmark */ = 17A8CF0212DA34FC00522FE6 /* PBXTextBookmark */;
+			17A8CF0312DA34FC00522FE6 /* PBXTextBookmark */ = 17A8CF0312DA34FC00522FE6 /* PBXTextBookmark */;
+			17A8CF0B12DA354400522FE6 /* PBXTextBookmark */ = 17A8CF0B12DA354400522FE6 /* PBXTextBookmark */;
+			17A8CF1412DA354400522FE6 /* PBXTextBookmark */ = 17A8CF1412DA354400522FE6 /* PBXTextBookmark */;
+			17E3D4CF12DA304200D0C707 /* PBXTextBookmark */ = 17E3D4CF12DA304200D0C707 /* PBXTextBookmark */;
+			17E3D4D812DA321900D0C707 /* PlistBookmark */ = 17E3D4D812DA321900D0C707 /* PlistBookmark */;
+		};
+		sourceControlManager = 1742E06012DA2ED100E6B244 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
